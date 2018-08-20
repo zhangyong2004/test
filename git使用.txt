@@ -1,0 +1,16 @@
+
+1.配置用户名
+git config --global user.name googler2008
+git config --global user.email zhangyong_2004@126.com
+
+2.创建本地仓库
+git init
+
+3.添加文件到版本控制中
+git add readme.txt
+
+4.提交到本地仓库
+git commit -m 'version-1.0'
+
+5.显示提交日志
+git log
